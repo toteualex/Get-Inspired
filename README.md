@@ -1,4 +1,4 @@
 # Get-Inspired
-this is learning project 
+this is a learning project 
 ## live version 
 https://toteualex-get-inspired.surge.sh/
